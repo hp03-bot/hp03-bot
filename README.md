@@ -72,18 +72,7 @@ I build intelligent, real-world solutions at the intersection of AI, Data Scienc
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hpaids86-bot&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpaids86-bot&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hpaids86-bot&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
