@@ -90,7 +90,7 @@ I build intelligent, real-world solutions at the intersection of AI, Data Scienc
 ### 📫 Connect With Me
 
 - 📧 **Email:** hpaids86@gmail.com
-- 💼 **LinkedIn:** [hari-prasath-r](https://www.linkedin.com/in/hari-prasath-r-b8ab12369)
+- 💼 **LinkedIn:** [hari-prasath-R](https://www.linkedin.com/in/hari-prasath-r-b8ab12369)
 - 💻 **GitHub:** [@hpaids86-bot](https://github.com/hpaids86-bot)
 
 ---
