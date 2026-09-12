@@ -56,8 +56,14 @@ I build intelligent, real-world solutions at the intersection of AI, Data Scienc
 
 ### 🧭 Learning Progress
 
-✅ Python &nbsp;&nbsp; ✅ SQL &nbsp;&nbsp; ✅ GitHub &nbsp;&nbsp; ✅ Data Analytics
-🔄 Deep Learning &nbsp;&nbsp; 🔄 Generative AI &nbsp;&nbsp; 🔄 Java &nbsp;&nbsp; 🔄 LLM Applications & RAG Models
+✅ Python &nbsp;&nbsp; 
+✅ SQL &nbsp;&nbsp;
+✅ GitHub &nbsp;&nbsp;
+✅ Data Analytics
+🔄 Deep Learning &nbsp;&nbsp;
+🔄 Generative AI &nbsp;&nbsp;
+🔄 Java &nbsp;&nbsp; 
+🔄 LLM Applications & RAG Models
 
 ---
 
