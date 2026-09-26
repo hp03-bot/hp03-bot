@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Student | AI Developer | Cloud Enthusiast</h3>
 
 <p align="center">
-I build intelligent, real-world solutions at the intersection of AI, Data Science, and Cloud — currently on the path to becoming an AI Engineer.
+I build intelligent, real-world solutions at the intersection of AI, Data Science, and Cloud — currently on the path to becoming an AI Engineer
 </p>
 
 <p align="center">
